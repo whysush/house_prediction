@@ -1,2 +1,2 @@
-# Traffic Sign Recognition (CNN)
-Deep convolutional neural network trained on GTSRB dataset to accurately classify road traffic signs for autonomous systems.
+# Gradient Boosting Regressor
+Regression model leveraging feature engineering and gradient boosting to predict housing prices with high accuracy.
